@@ -17,9 +17,9 @@ export class AppComponent {
   title = 'UF2-ExIsmaelNaciriFernandez';
 
   constructor(private http: HttpClient) {
-    // this.llistaAssigNaciriFernandez();
-    // this.nouDeptNaciriFernandez();
-    // this.naiDe10NaciriFernandez();
+    this.llistaAssigNaciriFernandez();
+    this.nouDeptNaciriFernandez();
+    this.naiDe10NaciriFernandez();
     this.aveMariaNaciriFernandez();
 
   }

@@ -18,7 +18,7 @@ const connection = mysql.createConnection({
   host: '127.0.0.1',
   user: 'isma',
   password: 'patata1234',
-  database: 'universitat',
+  database: 'uni_ismael_naciri_fernandez',
   port: 3308
 })
 
